@@ -7,6 +7,6 @@ Stay organized, boost productivity, and never miss a task again with this sleek 
 
 ![image alt](https://github.com/Itsyashasvibhati/To-Do-lists/blob/899b183039895dcacd67b2748fee2d4096de8663/Screenshot1.png)
 
-![image alt]
+![image alt](https://github.com/Itsyashasvibhati/To-Do-lists/blob/c4fb87f46791d6e4df5a953f00af80204cccd64c/Screenshot2.png)
 
 
