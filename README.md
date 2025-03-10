@@ -1,7 +1,7 @@
 # To-Do-lists
 Welcome To My To-DO-List!
 
-"Effortlessly Track Your Daily Tasks with Our Stylish To-Do List! 
+"Effortlessly Track Your Daily Tasks with Our Stylish To-Do List!   
 Stay organized, boost productivity, and never miss a task again with this sleek and user-friendly To-Do List application."
 
 
